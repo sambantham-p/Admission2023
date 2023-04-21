@@ -17881,4 +17881,8 @@ span.select2-selection.select2-selection--single:focus {
 .text-justify {
   text-align: justify;
 }
-
+.justify{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
