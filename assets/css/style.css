@@ -12982,6 +12982,13 @@ span.select2-selection.select2-selection--single:focus {
   margin-left: -1px;
   margin-right: -1px;
 }
+.flex{
+  display: flex;
+  
+}
+.p{
+    padding-left: 9px;
+}
 .course-single-top {
   position: relative;
   margin-bottom: var(--blog-space-y, 40px);
@@ -13010,9 +13017,8 @@ span.select2-selection.select2-selection--single:focus {
   border-radius: 10px;
   padding-bottom: 0;
   overflow: hidden;
- 
-  left:20px;
 }
+
 @media (max-width: 1199px) {
   .course-single {
     --blog-space-x: 20px;
