@@ -896,11 +896,13 @@ section {
 }
 
 .hero-section h1 {
-  font-size: 3.5rem;
+  font-size: 2.8rem;
   color: #fff;
   font-weight: 700;
   margin-bottom: 30px;
 }
+
+
 
 @media screen and (max-width: 992px) {
   .hero-section h1 {
@@ -908,6 +910,7 @@ section {
     text-align: center;
     margin-top: 40px;
   }
+
 }
 
 @media screen and (max-width: 992px) {
@@ -917,7 +920,7 @@ section {
 }
 
 .hero-section p {
-  font-size: 18px;
+  font-size: 25px;
   color: #fff;
 }
 
@@ -967,6 +970,7 @@ section {
   margin-left: 100px;
   width: 250px;
 }
+
 
 @media screen and (max-width: 992px) {
   .hero-section .iphone-wrap .phone-2 {
@@ -1252,6 +1256,7 @@ h6 {
   h2 {
     font-size: 40px;
   }
+
 }
 @media (max-width: 1199px) {
   .h1,
@@ -1278,6 +1283,7 @@ h6 {
   h6 {
     font-size: 16px;
   }
+
 }
 @media (max-width: 767px) {
   .h1,
@@ -1322,6 +1328,10 @@ h6 {
   }
   .psg{
     font-size: 20px;
+  }
+  .hero-section p {
+    font-size: 18px;
+    color: #fff;
   }
 }
 @media (max-width: 1399px) {
